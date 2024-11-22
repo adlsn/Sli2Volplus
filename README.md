@@ -43,8 +43,8 @@ python test.py
 ```
 
 ## Dependencies
-* Python (3.6), other versions should also work
-* PyTorch (1.6), other versions should also work
+* Python (3.10), other versions should also work
+* PyTorch (2.3.0), other versions should also work
 
 ## Acknowledgement
 This repository is built based on [Sli2Vol](https://github.com/pakheiyeung/Sli2Vol) repository.
