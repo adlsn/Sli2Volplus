@@ -1,6 +1,6 @@
 # Sli2Vol+: Segmenting 3D Medical Images Based on an Object Estimation Guided Correspondence Flow Network
 
-[Delin An](https://github.com/adlsn)<sup>1</sup>, [Pengfei Gu]()<sup>2</sup>, [Milan Sonka]()<sup>3</sup>, [Chaoli Wang](https://sites.nd.edu/chaoli-wang/)<sup>1</sup>, and [Danny Z. Chen](https://www3.nd.edu/~dchen/)<sup>1</sup>
+[Delin An](https://github.com/adlsn)<sup>1</sup>, [Pengfei Gu](https://pgu-nd.github.io/)<sup>2</sup>, [Milan Sonka]()<sup>3</sup>, [Chaoli Wang](https://sites.nd.edu/chaoli-wang/)<sup>1</sup>, and [Danny Z. Chen](https://www3.nd.edu/~dchen/)<sup>1</sup>
 
 University of Notre Dame<sup>1</sup>, The University of Texas Rio Grande Valley<sup>2</sup>, University of Iowa<sup>3</sup>
 
