@@ -17,7 +17,7 @@ University of Notre Dame<sup>1</sup>, The University of Texas Rio Grande Valley<
 
 > The qualitative results provide a comprehensive comparison of our method with other approaches, particularly in scenarios involving propagation to slices distant from the labeled slice. These results highlight the effectiveness of our method in mitigating error accumulation during propagation, as evidenced by the improved segmentation accuracy on the 29th and 39th slices. Additionally, our method demonstrates exceptional robustness in addressing object discontinuities, successfully segmenting slices where objects terminate between consecutive frames (e.g., from the 7th to 8th slices in the spleen dataset). In contrast, other mask propagation methods often produce false positives in such cases, further emphasizing the reliability and precision of our approach.
 
-<div>
+<div align="center">
   <img src='qualitative_results.png'>
 </div>
 
