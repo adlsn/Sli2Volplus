@@ -49,6 +49,9 @@ python test.py
 ## Acknowledgement
 This repository is built based on [Sli2Vol](https://github.com/pakheiyeung/Sli2Vol) repository.
 
+## Contact
+Should you have any questions, please send emails to dan3@nd.edu.
+
 
 
 
