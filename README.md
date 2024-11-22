@@ -21,7 +21,7 @@ University of Notre Dame<sup>1</sup>, The University of Texas Rio Grande Valley<
   <img src='qualitative_results.png'>
 </div>
 
-## Installation, Training, and Testing
+## Installation, Train, and Test
 The code is developed by Python. After cloning the repository, follow the steps below for installation:
 1. Create and activate the conda environment
 ```python
@@ -32,12 +32,12 @@ conda activate sliplus
 ```python
 pip install -r requirements.txt
 ```
-3. Training
+3. Train
 ```python
 python train.py
 ```
 
-4. Testing
+4. Test
 ```python
 python test.py
 ```
